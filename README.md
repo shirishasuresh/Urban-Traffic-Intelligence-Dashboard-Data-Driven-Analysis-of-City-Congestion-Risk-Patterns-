@@ -1,0 +1,2 @@
+# Urban-Traffic-Intelligence-Dashboard-Data-Driven-Analysis-of-City-Congestion-Risk-Patterns-
+An advanced dashboard offering real-time insights into urban traffic, analyzing congestion hotspots, accident-prone zones, and flow patterns. It empowers city planners and commuters with data-driven strategies to optimize routes, reduce delays, and enhance road safety efficiently.Regarding weather and all 
