@@ -1,0 +1,14 @@
+Urban-Traffic-Analytics-Dashboard
+│
+├── dashboards/
+│   └── traffic_dashboard.pdf
+│
+├── dataset/
+│   ├── traffic_events.csv
+│   ├── intersections.csv
+│   ├── weather.csv
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
