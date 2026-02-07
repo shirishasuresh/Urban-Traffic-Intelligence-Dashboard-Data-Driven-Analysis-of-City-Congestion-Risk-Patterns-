@@ -22,7 +22,7 @@ Identify congestion zones, peak travel hours, and weather impact to support smar
 - Data modeling & visualization
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Screenshot%20(188).png)
 
 ## Files
 - dashboards/ → Tableau dashboard export
